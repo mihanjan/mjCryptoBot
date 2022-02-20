@@ -1,0 +1,17 @@
+bot:
+  name: mjMindedBot
+  token: 5183607486:AAH0Zvbns92VVbBf5-Mn0hAToI37mM1QhuE
+  path: https://ff63-79-126-37-156.ngrok.io
+#   https://api.telegram.org/bot5183607486:AAH0Zvbns92VVbBf5-Mn0hAToI37mM1QhuE/setWebhook?url=https://ff63-79-126-37-156.ngrok.io
+
+server:
+  port: 8082
+
+schedule:
+  candle: 3000
+  trigger: 11000
+
+kafka:
+  server: pkc-xmzwx.europe-central2.gcp.confluent.cloud:9092
+  group-id: hackathon-nullPointerException
+  jaas: org.apache.kafka.common.security.plain.PlainLoginModule required username="7FVY3HRGJCBZUNK2" password="/x38MoYO2bdykrJGPgcCihWfoMqm4V64icBLcPZzYHCVqGvC4BfDWEp5rG1f1C9v";

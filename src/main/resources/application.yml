@@ -1,6 +1,6 @@
 bot:
   name: mjMindedBot
-  token: 5183607486:AAH0Zvbns92VVbBf5-Mn0hAToI37mM1QhuE
+  token: 12345
   path: https://ff63-79-126-37-156.ngrok.io
 #   https://api.telegram.org/bot5183607486:AAH0Zvbns92VVbBf5-Mn0hAToI37mM1QhuE/setWebhook?url=https://ff63-79-126-37-156.ngrok.io
 
